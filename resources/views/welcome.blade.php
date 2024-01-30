@@ -16,6 +16,7 @@
                 label="Email"
                 name="email"
                 placeholder="example@mail.com"
+                class="text-black"
             />
 
             <x-button.submit class="bg-danger hover:bg-danger-hover active:bg-danger mt-5" type="button" name="Submit" />
